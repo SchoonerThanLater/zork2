@@ -1932,7 +1932,7 @@ Unfortunately, wishing makes the coin go...." CR>
 
 
 <GLOBAL LAMP-TABLE
-	<TABLE 300
+	<TABLE 30000
 	       "The lamp appears a bit dimmer."
 	       100
 	       "The lamp is definitely dimmer now."
